@@ -26,7 +26,11 @@ export default defineUserConfig({
             link: '/notes/JavaScript',
             children: [],
           },
-
+          {
+            text: 'Vue',
+            link: '/notes/JavaScript',
+            children: [],
+          },
         ],
       },
     ],
