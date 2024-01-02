@@ -18,7 +18,7 @@ export default defineUserConfig({
     sidebar: [
       //侧边栏
       {
-        text: '前端知识',
+        text: '知识库',
         collapsible: true,
         children: [
           // SidebarItem
@@ -29,7 +29,7 @@ export default defineUserConfig({
           },
           {
             text: 'Vue',
-            link: '/notes/JavaScript',
+            link: '/notes/Vue',
             children: [],
           },
         ],
