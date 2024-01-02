@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d18f380a","path":"/notes/JavaScript/","title":"Keep in mind","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1704183825000,"contributors":[{"name":"oomph","email":"18015564841@163.com","commits":1}]},"filePathRelative":"notes/JavaScript/readme.md"}');export{e as data};

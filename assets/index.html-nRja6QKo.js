@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6da98460","path":"/notes/Vue/","title":"Vue","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1704190247000,"contributors":[{"name":"oomph","email":"18015564841@163.com","commits":1}]},"filePathRelative":"notes/Vue/readme.md"}');export{e as data};
