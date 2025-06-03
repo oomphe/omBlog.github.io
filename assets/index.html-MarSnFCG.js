@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d18f380a","path":"/notes/JavaScript/","title":"ToFixed","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1748933750000,"contributors":[{"name":"oomph","email":"18015564841@163.com","commits":1},{"name":"刘斌","email":"18015564841@163.com","commits":1}]},"filePathRelative":"notes/JavaScript/readme.md"}');export{e as data};

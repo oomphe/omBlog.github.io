@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-386796b1","path":"/notes/JavaScript/ToFixed/","title":"ToFixed","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1748933750000,"contributors":[{"name":"刘斌","email":"18015564841@163.com","commits":1}]},"filePathRelative":"notes/JavaScript/ToFixed/readme.md"}');export{e as data};

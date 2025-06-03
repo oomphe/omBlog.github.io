@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-43b92c19","path":"/notes/worldWideWeb/","title":"万维网是如何工作","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1748933750000,"contributors":[{"name":"刘斌","email":"18015564841@163.com","commits":1}]},"filePathRelative":"notes/worldWideWeb/readme.md"}');export{e as data};
