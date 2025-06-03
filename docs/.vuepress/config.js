@@ -1,6 +1,5 @@
 import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from 'vuepress'
-import { copyCodePlugin } from '@vuepress/plugin-copy-code'
 
 export default defineUserConfig({
   base: 'omBlog.github.io',
